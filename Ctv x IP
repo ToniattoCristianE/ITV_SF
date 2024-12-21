@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1,(1.1) Aire de Santa Fe (F.M-Provincial)
+https://unlimited1-buenosaires.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
+#EXTINF:-1,(1.2) Power Max (F.M-Provincial)
+https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8%20
+#EXTINF:-1,(1.3) Play Television (TV-Provincial)
+https://vivo.solumedia.com:19360/playtv/playtv.m3u8
+#EXTINF:-1,(1.4) Cable Imagen Amstrong (TV-Provincial)
+https://stream.arcast.com.ar/casse/casse/playlist.m3u8
+#EXTINF:-1,(1.5) Television Digital Codificada (TV-Provincial)
+https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
+#EXTINF:-1,(1.6) Canal 5 Santa Fe (TV-Provincial)
+https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
+#EXTINF:-1,(1.7) Litus TV (TV-Provincial)
+https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:-1,(1.7) Canal 9 Litoral (TV-Regional)
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
+#EXTINF:-1,(1.8) El Trece TV (TV-Nacional)
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1,(1.9) NET TV (TV-Nacional)
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1,(2.1) Argentinisima Satelital (TV-Nacional)
+https://stream1.sersat.com/hls/argentinisima.m3u8
+#EXTINF:-1,(2.2) T.V.E Internacional (TV-Internacional)
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
+#EXTINF:-1,(2.3) T.V.E STAR (TV-Internacional)
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
+#EXTINF:-1,(2.4) Tele Sur  (TV-Internacional)
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1,(2.5) Cuba Vision Internacional (TV-Internacional)
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+#EXTINF:-1,(2.6) DW Español (TV-Noticia-Internacional)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1,(2.7) 24 Hs Chile (TV-Noticias-Internacional)
+https://youtu.be/gPLHafMRORY
+#EXTINF:-1,(2.8) CNN Internacional (TV-Noticias-Internacional)
+https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
+#EXTINF:-1,(2.9) El Garage TV (TV-Deporte-Nacional)
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1,(2.9)
+#EXTINF:-1,(3.1)
+#EXTINF:-1,(3.2)
+#EXTINF:-1,(3.3)
+#EXTINF:-1,(3.4)
+#EXTINF:-1,(3.5)
+#EXTINF:-1,(3.6)
+#EXTINF:-1,(3.7)
+#EXTINF:-1,(3.8)
+#EXTINF:-1,(3.9)
+#EXTINF:-1,(4.1)
+#EXTINF:-1,(4.2)
+#EXTINF:-1,(4.3)
+#EXTINF:-1,(4.4)
+#EXTINF:-1,(4.5)
+#EXTINF:-1,(4.6)
+#EXTINF:-1,(4.7)
+#EXTINF:-1,(4.8)
+#EXTINF:-1,(4.9)
+#EXTINF:-1,(5.1)
